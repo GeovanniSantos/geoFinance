@@ -18,7 +18,6 @@ public class Usuario {
 
     //Construtores
     public Usuario(){
-
     }
 
     public Usuario(String nome, String email, String senha) {

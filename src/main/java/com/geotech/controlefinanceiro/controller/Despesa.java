@@ -25,7 +25,6 @@ public class Despesa {
 
     //Contrutores
     public Despesa() {
-        
     }
 
     public Despesa(String descricao, Double valor, LocalDate data, Categoria categoria, Usuario usuario, Integer parcelas) {

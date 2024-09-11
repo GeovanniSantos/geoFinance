@@ -15,7 +15,6 @@ public class Categoria {
 
     //Contrutores
     public Categoria() {
-
     }
 
     public Categoria(String nome) {
